@@ -12,6 +12,17 @@
     "express": "^4.10.6",
     "morgan": "^1.5.0",
     "serve-favicon": "^2.2.0",
-    "nunjucks": "*"
+    "nunjucks": "*",
+    "node-sass": "^4.9.3",
+    "node-sass-middleware": "^0.11.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "chai": "^4.2.0",
+    "gulp": "^4.0.0",
+    "gulp-mocha": "^6.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulplog": "^1.0.0",
+    "mocha": "^5.2.0"
   }
 }
